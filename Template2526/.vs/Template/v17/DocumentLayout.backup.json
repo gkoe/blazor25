@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\CSharp\\Blazor_2025_26\\\u00DCbungen\\Template-25-26\\Template\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D6BA9F-1EA4-4106-92AE-D3DB01D75F6D}|ImportConsole\\ImportConsole.csproj|d:\\work\\csharp\\blazor_2025_26\\\u00FCbungen\\template-25-26\\template\\importconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D6BA9F-1EA4-4106-92AE-D3DB01D75F6D}|ImportConsole\\ImportConsole.csproj|solutionrelative:importconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BB3DC7-ED28-4385-8574-C93BB0B722B0}|WebAssembly\\WebAssembly\\WebAssembly.csproj|d:\\work\\csharp\\blazor_2025_26\\\u00FCbungen\\template-25-26\\template\\webassembly\\webassembly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37BB3DC7-ED28-4385-8574-C93BB0B722B0}|WebAssembly\\WebAssembly\\WebAssembly.csproj|solutionrelative:webassembly\\webassembly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D6BA9F-1EA4-4106-92AE-D3DB01D75F6D}|ImportConsole\\ImportConsole.csproj|d:\\work\\csharp\\blazor_2025_26\\\u00FCbungen\\template-25-26\\template\\importconsole\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9D6BA9F-1EA4-4106-92AE-D3DB01D75F6D}|ImportConsole\\ImportConsole.csproj|solutionrelative:importconsole\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ADC39-015F-4CDD-BEB0-79BF9EE6A965}|Persistence\\Persistence.csproj|d:\\work\\csharp\\blazor_2025_26\\\u00FCbungen\\template-25-26\\template\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142ADC39-015F-4CDD-BEB0-79BF9EE6A965}|Persistence\\Persistence.csproj|solutionrelative:persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1116991-CF33-4865-9884-25CE794BDBC2}|Base\\Base.csproj|d:\\work\\csharp\\blazor_2025_26\\\u00FCbungen\\template-25-26\\template\\base\\persistence\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1116991-CF33-4865-9884-25CE794BDBC2}|Base\\Base.csproj|solutionrelative:base\\persistence\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ADC39-015F-4CDD-BEB0-79BF9EE6A965}|Persistence\\Persistence.csproj|d:\\work\\csharp\\blazor_2025_26\\\u00FCbungen\\template-25-26\\template\\persistence\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142ADC39-015F-4CDD-BEB0-79BF9EE6A965}|Persistence\\Persistence.csproj|solutionrelative:persistence\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142ADC39-015F-4CDD-BEB0-79BF9EE6A965}|Persistence\\Persistence.csproj|d:\\work\\csharp\\blazor_2025_26\\\u00FCbungen\\template-25-26\\template\\persistence\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142ADC39-015F-4CDD-BEB0-79BF9EE6A965}|Persistence\\Persistence.csproj|solutionrelative:persistence\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1116991-CF33-4865-9884-25CE794BDBC2}|Base\\Base.csproj|d:\\work\\csharp\\blazor_2025_26\\\u00FCbungen\\template-25-26\\template\\base\\contracts\\persistence\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1116991-CF33-4865-9884-25CE794BDBC2}|Base\\Base.csproj|solutionrelative:base\\contracts\\persistence\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BB3DC7-ED28-4385-8574-C93BB0B722B0}|WebAssembly\\WebAssembly\\WebAssembly.csproj|d:\\work\\csharp\\blazor_2025_26\\\u00FCbungen\\template-25-26\\template\\webassembly\\webassembly\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37BB3DC7-ED28-4385-8574-C93BB0B722B0}|WebAssembly\\WebAssembly\\WebAssembly.csproj|solutionrelative:webassembly\\webassembly\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\work\\CSharp\\Blazor_2025_26\\\u00DCbungen\\Template-25-26\\Template\\ImportConsole\\appsettings.json",
+              "RelativeDocumentMoniker": "ImportConsole\\appsettings.json",
+              "ToolTip": "D:\\work\\CSharp\\Blazor_2025_26\\\u00DCbungen\\Template-25-26\\Template\\ImportConsole\\appsettings.json",
+              "RelativeToolTip": "ImportConsole\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T16:37:05.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\work\\CSharp\\Blazor_2025_26\\\u00DCbungen\\Template-25-26\\Template\\ImportConsole\\Program.cs",
+              "RelativeDocumentMoniker": "ImportConsole\\Program.cs",
+              "ToolTip": "D:\\work\\CSharp\\Blazor_2025_26\\\u00DCbungen\\Template-25-26\\Template\\ImportConsole\\Program.cs",
+              "RelativeToolTip": "ImportConsole\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAkwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:50:18.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\work\\CSharp\\Blazor_2025_26\\\u00DCbungen\\Template-25-26\\Template\\Persistence\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Persistence\\UnitOfWork.cs",
+              "ToolTip": "D:\\work\\CSharp\\Blazor_2025_26\\\u00DCbungen\\Template-25-26\\Template\\Persistence\\UnitOfWork.cs",
+              "RelativeToolTip": "Persistence\\UnitOfWork.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:41:53.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\work\\CSharp\\Blazor_2025_26\\\u00DCbungen\\Template-25-26\\Template\\Persistence\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\OrderRepository.cs",
+              "ToolTip": "D:\\work\\CSharp\\Blazor_2025_26\\\u00DCbungen\\Template-25-26\\Template\\Persistence\\OrderRepository.cs",
+              "RelativeToolTip": "Persistence\\OrderRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:41:18.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\work\\CSharp\\Blazor_2025_26\\\u00DCbungen\\Template-25-26\\Template\\WebAssembly\\WebAssembly\\Program.cs",
+              "RelativeDocumentMoniker": "WebAssembly\\WebAssembly\\Program.cs",
+              "ToolTip": "D:\\work\\CSharp\\Blazor_2025_26\\\u00DCbungen\\Template-25-26\\Template\\WebAssembly\\WebAssembly\\Program.cs",
+              "RelativeToolTip": "WebAssembly\\WebAssembly\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:38:56.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItemRepository.cs",
+              "DocumentMoniker": "D:\\work\\CSharp\\Blazor_2025_26\\\u00DCbungen\\Template-25-26\\Template\\Persistence\\OrderItemRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\OrderItemRepository.cs",
+              "ToolTip": "D:\\work\\CSharp\\Blazor_2025_26\\\u00DCbungen\\Template-25-26\\Template\\Persistence\\OrderItemRepository.cs",
+              "RelativeToolTip": "Persistence\\OrderItemRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:38:05.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\work\\CSharp\\Blazor_2025_26\\\u00DCbungen\\Template-25-26\\Template\\WebAssembly\\WebAssembly\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "WebAssembly\\WebAssembly\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\work\\CSharp\\Blazor_2025_26\\\u00DCbungen\\Template-25-26\\Template\\WebAssembly\\WebAssembly\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "WebAssembly\\WebAssembly\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T18:11:40.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\work\\CSharp\\Blazor_2025_26\\\u00DCbungen\\Template-25-26\\Template\\Base\\Contracts\\Persistence\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Base\\Contracts\\Persistence\\IGenericRepository.cs",
+              "ToolTip": "D:\\work\\CSharp\\Blazor_2025_26\\\u00DCbungen\\Template-25-26\\Template\\Base\\Contracts\\Persistence\\IGenericRepository.cs",
+              "RelativeToolTip": "Base\\Contracts\\Persistence\\IGenericRepository.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAIwJAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T17:55:34.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\work\\CSharp\\Blazor_2025_26\\\u00DCbungen\\Template-25-26\\Template\\Base\\Persistence\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Base\\Persistence\\GenericRepository.cs",
+              "ToolTip": "D:\\work\\CSharp\\Blazor_2025_26\\\u00DCbungen\\Template-25-26\\Template\\Base\\Persistence\\GenericRepository.cs",
+              "RelativeToolTip": "Base\\Persistence\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T17:53:26.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

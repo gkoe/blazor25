@@ -1,0 +1,15 @@
+OrderNr;Date;CustomerNr;LastName;FirstName;ProductNr;Amount;OrderTyp
+2020/1;01.01.2020;12340;Berger;Herbert;P311;3;Telefon
+2020/1;01.01.2020;12340;Berger;Herbert;P322;5;Telefon
+2020/1;01.01.2020;12340;Berger;Herbert;P233;10;Telefon
+2020/2;02.01.2020;47117;Müller;Tanja;P233;1;Mail
+2020/2;02.01.2020;47117;Müller;Tanja;P122;15;Mail
+2020/3;02.01.2020;12340;Berger;Herbert;P132;2;Telefon
+2020/4;03.01.2020;88888;Sammer;Robert;P911;4;Fax
+2020/4;03.01.2020;88888;Sammer;Robert;P311;6;Fax
+2020/4;03.01.2020;88888;Sammer;Robert;P923;2;Fax
+2020/5;04.01.2020;31015;Bregar;Martin;P122;8;Fax
+2020/6;07.01.2020;88888;Sammer;Robert;P517;9;Mail
+2020/7;08.01.2020;47117;Müller;Tanja;P322;12;Mail
+2020/7;08.01.2020;47117;Müller;Tanja;P520;30;Mail
+2020/8;09.01.2020;31015;Bregar;Martin;P122;9;Telefon

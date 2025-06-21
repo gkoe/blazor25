@@ -1,0 +1,70 @@
+﻿@page "/orderspage"
+
+<MudGrid>
+    <MudItem xs="12" md="9">
+        <MudPaper Elevation="1">
+            <h2>Bakery Orders</h2>
+        </MudPaper>
+    </MudItem>
+
+<MudItem xs="12" md="9">
+    <MudStack Row Spacing="2" >
+        <MudTextField @bind-Value="NameFilter"
+                      Placeholder="Search by Name (contains)"
+                      Adornment="Adornment.End"
+                      Style="flex: 1;" />
+            <MudButton @onclick="(() => SearchOrders())"
+                       Variant="Variant.Outlined">
+                Search Orders
+            </MudButton>
+            <MudButton @onclick="(() => AddCustomer())"
+                       Variant="Variant.Outlined">
+                Add Customer
+            </MudButton>
+        </MudStack>
+</MudItem>
+
+
+    <MudItem xs="12" md="10">
+        <MudPaper Elevation="0">
+            <MudDataGrid RowsPerPage="5"
+                         @ref="_dataGrid"
+                         T="OrdersApiGetDto"
+                         ServerData="ServerReload"
+                         Class="m-3"
+                         Striped="true">
+                <Columns>
+                    <PropertyColumn Property="x => x.Id" Title="Id" />
+                    <PropertyColumn Property="x => x.OrderNr" Title="Ordernumber" />
+                    <PropertyColumn Property="x => x.CustomerFullName" Title="Customer" />
+
+                    <PropertyColumn Property="x => x.TotalAmount" Title="Amount">
+                        <CellTemplate>
+                            <div style="text-align: right;">
+                                @($"{context.Item.TotalAmount:C2}")
+                            </div>
+                        </CellTemplate>
+                    </PropertyColumn>
+
+
+                    <TemplateColumn Title="">
+                        <CellTemplate>
+
+                            <MudButton @onclick="async () => await DeleteAsync(context.Item.Id)"
+                                       Rel="nofollow"
+                                       Variant="Variant.Outlined"
+                                       Color="Color.Warning">
+                                Delete
+                            </MudButton>
+                        </CellTemplate>
+                    </TemplateColumn>
+
+                </Columns>
+                <PagerContent>
+                    <MudDataGridPager T="OrdersApiGetDto" />
+                </PagerContent>
+            </MudDataGrid>
+        </MudPaper>
+    </MudItem>
+
+</MudGrid>
